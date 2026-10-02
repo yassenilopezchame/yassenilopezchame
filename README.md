@@ -8,7 +8,7 @@
 <!-- ═══════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/yassenilopezchame">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=Ingeniera+en+Sistemas+Computacionales+%F0%9F%92%BB;Desarrolladora+Full+Stack+%F0%9F%9A%80;Apasionada+por+la+tecnolog%C3%ADa+%E2%9C%A8;Bienvenida+a+mi+perfil+%F0%9F%8C%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=Ingeniera+en+Sistemas+Computacionales+%F0%9F%92%BB;Desarrolladora+Web+%F0%9F%9A%80;Apasionada+por+la+tecnolog%C3%ADa+%E2%9C%A8;Bienvenidos+a+mi+perfil+%F0%9F%8C%B8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,16 +27,42 @@
 <!-- ═══════════════════════════════════════════ -->
 <!--                SOBRE MÍ                      -->
 <!-- ═══════════════════════════════════════════ -->
-<h2 align="center">💜 Sobre mí</h2>
 
-```yaml
-nombre: Yasseni de Jesús López Chamé
-rol: Ingeniera en Sistemas Computacionales
-ubicación: México 🇲🇽
-enfoque: Desarrollo Full Stack
-pasión: Convertir ideas en código funcional
-aprendiendo: Nuevas tecnologías cada día 🚀
+<p>
+I am a Computer Systems Engineer with a deep interest in web development. I enjoy creating functional, engaging, and user-centric digital experiences that not only solve problems but also have a positive impact on users.
+</p>
 
-<!-- ═══════════════════════════════════════════ --><!-- TECNOLOGÍAS --><!-- ═══════════════════════════════════════════ --><h2 align="center">🛠️ Tecnologías y herramientas</h2><h3 align="center">💻 Frontend</h3> <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </p><h3 align="center">⚙️ Backend</h3> <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> </p><h3 align="center">🧰 Herramientas</h3> <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+🌱 I am currently learning about Artificial Intelligence, Data Science, and Machine Learning—fields that complement my background in Computer Systems Engineering and help me continue to grow in the development of technological solutions.
 
-<!-- ═══════════════════════════════════════════ --><!-- REDES SOCIALES --><!-- ═══════════════════════════════════════════ --><h2 align="center">🌐 Conéctate conmigo</h2><p align="center"> <a href="https://linkedin.com/in/yasseni-lópez-chamé-b718233b6" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://yasseni-lopez-chame.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <!-- 👇 AQUÍ VA TU CORREO (reemplaza TU-CORREO@ejemplo.com) --> <a href="mailto:TU-CORREO@ejemplo.com"> <img src="https://img.shields.io/badge/Email-C026D3?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/yassenilopezchame" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+🎯 In the future, I would like to further my knowledge of web development and delve deeper into Artificial Intelligence, with the goal of creating comprehensive applications that integrate the best of both worlds and solve real-world problems in innovative ways.
+
+### 🛠 &nbsp;Technologies that I work with
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
+
+#### 🖥️ Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+
+#### 🔧 Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### 📫 Social links
+<p>
+	<a href="https://wa.me/529611935660"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/yasseni-lópez-chamé-b718233b6/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/yass.jlc?igsh=eXBzZXJobXc3dnIx"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
